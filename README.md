@@ -96,3 +96,19 @@ Perfect for practicing CRUD operations, database interaction, and menu-based app
 1. Create Account
 2. Existing User Login
 3. Exit and Save to MySQL
+
+## 💾 Data Persistence
+Uses **parameterized queries** for security:
+~~~python
+cursor.execute(
+    "INSERT INTO accounts (acc_no, username, balance) VALUES (%s, %s, %s)",
+    (acct_no, data["username"], data["balance"])
+)
+~~~
+On exit, the script commits every in-memory account to `bankdb.accounts`.
+
+---
+
+## 📸 Screenshots
+![image](https://github.com/user-attachments/assets/10303b13-49c3-4c60-bff9-9efdb43e1dc3)
+
