@@ -21,10 +21,6 @@
 - [🧪 Usage Guide](#-usage-guide)
 - [💾 Data Persistence](#-data-persistence)
 - [📸 Screenshots](#-screenshots)
-- [👨‍💻 Author](#-author)
-- [🪪 License](#-license)
-- [🌟 Feedback](#-feedback)
-
 ---
 
 ## 📌 Overview
@@ -110,5 +106,36 @@ On exit, the script commits every in-memory account to `bankdb.accounts`.
 ---
 
 ## 📸 Screenshots
-![image](https://github.com/user-attachments/assets/10303b13-49c3-4c60-bff9-9efdb43e1dc3)
+# 1. Importing files and database connectivity
+![1](https://github.com/user-attachments/assets/865f622b-0a8a-46f7-92a7-b3716036e864)
+
+# 2. Saving user input in sql database
+![2](https://github.com/user-attachments/assets/e82d3177-04c8-4b36-b828-c44784cf65e1)
+
+# 3. Main menu
+![3](https://github.com/user-attachments/assets/a355a058-a937-4955-8b1b-0541ac071ea7)
+
+![7](https://github.com/user-attachments/assets/884eaa1f-1596-4975-91fa-cb2509c0e504)
+
+![8](https://github.com/user-attachments/assets/8fde588b-ddcd-421a-9ce8-459e32ce5296)
+
+# 4. Transaction menu 
+![4](https://github.com/user-attachments/assets/e90fbde5-ced7-4054-8a6f-432b07de547c)
+
+![9](https://github.com/user-attachments/assets/29c22574-02c6-45e0-9fc0-a097b4dfedbe)
+
+![5](https://github.com/user-attachments/assets/88155ef2-abcb-4df3-b423-3f29eec9bcbb)
+
+# 5. Verify/ Deposit/ Withdraw/ Save and exit
+![6](https://github.com/user-attachments/assets/ed987927-47d2-435e-9690-ef9afb70aed3)
+
+
+
+
+
+
+![10](https://github.com/user-attachments/assets/5f9ccb9d-ff93-4e10-9ae5-c19113bdac4e)
+![11](https://github.com/user-attachments/assets/7a88cc94-eca3-4238-a77e-276c64d75da6)
+
+
 
