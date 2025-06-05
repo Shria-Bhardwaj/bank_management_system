@@ -124,18 +124,16 @@ On exit, the script commits every in-memory account to `bankdb.accounts`.
 
 ![9](https://github.com/user-attachments/assets/29c22574-02c6-45e0-9fc0-a097b4dfedbe)
 
-![5](https://github.com/user-attachments/assets/88155ef2-abcb-4df3-b423-3f29eec9bcbb)
 
 # 5. Verify/ Deposit/ Withdraw/ Save and exit
+![5](https://github.com/user-attachments/assets/88155ef2-abcb-4df3-b423-3f29eec9bcbb)
+
 ![6](https://github.com/user-attachments/assets/ed987927-47d2-435e-9690-ef9afb70aed3)
 
-
-
-
-
+![11](https://github.com/user-attachments/assets/7a88cc94-eca3-4238-a77e-276c64d75da6)
 
 ![10](https://github.com/user-attachments/assets/5f9ccb9d-ff93-4e10-9ae5-c19113bdac4e)
-![11](https://github.com/user-attachments/assets/7a88cc94-eca3-4238-a77e-276c64d75da6)
+
 
 
 
